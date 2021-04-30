@@ -1,5 +1,7 @@
 package list;
 
+// add the arraylist class
+
 import java.util.ArrayList;
 
 public class Arraylist {
@@ -43,4 +45,5 @@ public class Arraylist {
 
 	}
 
+	// add the commit
 }
